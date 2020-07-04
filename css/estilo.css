@@ -1,6 +1,26 @@
 body
 {
-  color: tomato;
+  background-color: black;
+}
+.contenedor
+{
+  border: 3px solid white;
+  width: 70%;
+  padding: 1em;
+  margin: 0 auto;
+
+}
+.encabezado
+{
+  font-family: fantasy;
   text-align: center;
+  color: tomato;
+  text-transform: uppercase;
+}
+.parrafo
+{
   font-family: impact;
+  text-align:  left;
+  color: yellow;
+  text-
 }
